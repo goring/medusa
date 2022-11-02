@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.3.5-staging.0
+
+### Patch Changes
+
+- Updated dependencies [[`ea3d73882`](https://github.com/medusajs/medusa/commit/ea3d7388234f23c4a5bc7ceb55c493a097b76c12)]:
+  - medusa-core-utils@1.1.34-staging.0
+  - medusa-interfaces@1.3.4-staging.0
+  - medusa-test-utils@1.1.38-staging.0
+
 ## 1.3.4
 
 ### Patch Changes

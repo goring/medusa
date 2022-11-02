@@ -1,5 +1,12 @@
 # Change Log
 
+## 1.0.18-staging.0
+
+### Patch Changes
+
+- Updated dependencies []:
+  - medusa-interfaces@1.3.4-staging.0
+
 ## 1.0.17
 
 ### Patch Changes

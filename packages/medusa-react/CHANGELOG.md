@@ -1,5 +1,13 @@
 # Change Log
 
+## 3.0.1-staging.0
+
+### Patch Changes
+
+- Updated dependencies [[`ea3d73882`](https://github.com/medusajs/medusa/commit/ea3d7388234f23c4a5bc7ceb55c493a097b76c12)]:
+  - @medusajs/medusa@1.6.1-staging.0
+  - @medusajs/medusa-js@1.3.3-staging.0
+
 ## 3.0.0
 
 ### Patch Changes
